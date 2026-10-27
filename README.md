@@ -12,3 +12,5 @@ python main.py
 ## Estado
 
 Versión 1 (sin POO). Pendiente: refactor a clases y persistencia en JSON.
+
+estoy mejorando un poco en la programacion ya que me encanta mucho este mundo asi que accepto todas las criticas constructivas 
